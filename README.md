@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+</p>
 
-<!--
-**lana-py/lana-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Mariana"
+        self.nationality = "Brazilian"
+        self.degree = "B.S. in Statistics"
+        self.university = "Universidade Federal do Ceará (UFC)"
+        self.goal = "Data Scientist"
+        self.interests = ["Marketing Analytics", "Sport Analytics"]
 
-Here are some ideas to get you started:
+class Skills:
+    def __init__(self):
+        self.languages = ["Python", "R", "LaTeX"]
+        self.bibs = ["Tidyverse"]
+        self.frameworks = ["Streamlit"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:mariana.lana.stat@gmail.com)
