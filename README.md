@@ -10,7 +10,6 @@ class AboutMe:
         self.degree = "B.S. in Statistics"
         self.university = "Universidade Federal do Ceará (UFC)"
         self.goal = "Data Scientist"
-        self.interests = ["Data Science", "Applied Statistics", "Marketing Analytics", "Sports Analytics", "Economic Data Analysis"]
 
 class Skills:
     def __init__(self):
